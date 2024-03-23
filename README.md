@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lenguyenthehien2205
+- 👋 Hi, I’m Le Nguyen The Hien
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning web programing
 
