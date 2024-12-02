@@ -43,6 +43,10 @@ I am a fullstack developer who loves building solutions with Spring Boot and Ang
 </p>
 
 ### Badges
+
+#### Top Languages
+<a href="https://github.com/lenguyenthehien2205" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenthehien2205&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 #### My GitHub Stats
 <a href="http://www.github.com/lenguyenthehien2205">
   <img src="https://github-readme-stats.vercel.app/api?username=lenguyenthehien2205&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lenguyenthehien2205's GitHub stats" />
