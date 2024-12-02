@@ -55,7 +55,7 @@ I am a fullstack developer who loves building solutions with Spring Boot and Ang
 <a href="http://www.github.com/lenguyenthehien2205"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenthehien2205&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 #### GitHub Commits Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lenguyenthehien2205&bg_color=f0fffb&color=9e4c98&line=61b3ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lenguyenthehien2205&bg_color=f0fffb&color=9e4c98&line=61b3ff&point=403d3d&area=true&hide_border=true)](http://www.github.com/lenguyenthehien2205)
 
 #### Top Repositories
 <a href="https://github.com/lenguyenthehien2205/FacebookClone" align="left">
