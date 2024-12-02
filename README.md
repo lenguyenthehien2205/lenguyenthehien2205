@@ -50,9 +50,6 @@ I am a fullstack developer who loves building solutions with Spring Boot and Ang
 
 #### Top Repositories
 <a href="https://github.com/lenguyenthehien2205/FacebookClone" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenthehien2205&repo=FacebookClone&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenthehien2205&repo=FacebookClone&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
-
-### Repository Description
-**FacebookClone**: A fullstack project that replicates the functionality of Facebook using Spring Boot and Angular.
 
