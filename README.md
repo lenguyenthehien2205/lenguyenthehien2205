@@ -13,8 +13,6 @@ I am a fullstack developer who loves building solutions with Spring Boot and Ang
 - 🤝 I'm open to collaborating on Projects
 - ⚡ I have a personal bicycle.
 
-<a href="https://www.github.com/lenguyenthehien2205" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/lenguyenthehien2205?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
