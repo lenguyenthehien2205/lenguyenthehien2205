@@ -8,7 +8,6 @@ I am a fullstack developer who loves building solutions with Spring Boot and Ang
 - 🌍 I'm based in Ho Chi Minh City
 - 🖥️ See my portfolio at [My Portfolio](http://myapp.com)
 - ✉️ You can contact me at [lenguyenthehien2205@gmail.com](mailto:lenguyenthehien2205@gmail.com)
-//- 🚀 I'm currently working on [Facebook clone](http://myapp.com)
 - 🧠 I'm learning MongoDB
 - 🤝 I'm open to collaborating on Projects
 - ⚡ I have a personal bicycle.
